@@ -7,3 +7,15 @@ your platform, and target the static/shared libraries as usual.
 
 Refer to Updating_Libraries.txt for instructions to build each
 library on each platform if they are updated.
+
+Included libraries:
+
+	libjpeg
+	zlib
+	libpng
+	freetype2
+	glew
+	glfw
+	FBX SDK
+	glm
+	jsoncpp
